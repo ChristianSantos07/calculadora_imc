@@ -1,6 +1,6 @@
 # Calculadora IMC
 
-### Calculadora IMC pró ativa que mostra os status do IMC!
+### Calculadora pró ativa que mostra os status do IMC!
 
 ![tela1](https://user-images.githubusercontent.com/79944786/131926716-807fefba-a8b6-46d3-a9a3-9524076f6944.png)_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_![tela2](https://user-images.githubusercontent.com/79944786/131926725-4e438535-307b-4be6-921f-cf01a529b0d6.png)
 <br>
